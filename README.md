@@ -7,11 +7,11 @@
 4. open git Bash and then enter the command 
            `` $ git clone --bare GitBlit_Repo_URL``
  ![image_2](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/2.png)     
-5. list the repos
-           ``$ ls``
+5. list the repos 
+           ``$ ls``<br>
  ![image_3](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/3.png) 
 6. Change the directory
-          `` $ cd Directory_Name``
+          `` $ cd Directory_Name``<br>
   ![image_4](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/4.png)
 7. Create New repository in Github
 ![image_5](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/5.png)
