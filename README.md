@@ -18,7 +18,7 @@
 ![image_6](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/6.png)
 8. Copy newly created repo URL
 9. push cloned repository to GitHub Cloud / server
-          ``$ git push –mirror GitHub_Cloud_URL``
+          ``$ git push –-mirror GitHub_Cloud_URL``
 ![image_7](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/7.png)
 10. verify the migrated code
 ![image_8](https://raw.githubusercontent.com/Rajeshcn02/GitBlit-To-Github-Migration/main/images/8.png)
